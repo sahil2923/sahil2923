@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.credential.ly/profile/sahilshelar">
+  <a href="https://www.credly.com/badges/e102cef3-dcf5-4b05-816e-abedfd9dae4f/public_url">
     <img src="https://img.shields.io/badge/🎓%20Verify%20Google%20ACE%20Credential-4285F4?style=for-the-badge&logoColor=white" />
   </a>
 </div>
