@@ -1,27 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Shelar</h1>
 
-<h3 align="center">
-DevOps Engineer | Cloud & Kubernetes Enthusiast | AWS | Terraform | CI/CD
-</h3>
-
-<p align="center">
-Building scalable cloud infrastructure, automating deployments, and improving reliability.
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Working on Kubernetes, AWS & Infrastructure Automation
-- 🌱 Currently exploring AI Infrastructure & Platform Engineering
-- ⚡ Experienced with Terraform, Terragrunt, Helm, GitHub Actions & Docker
-- ☁️ AWS & GCP Cloud Experience
-- 🛠️ Passionate about DevOps, Automation and Observability
-- 📫 Reach me at: **sahilshelar94@gmail.com**
-
----
-
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 ### Cloud & DevOps
 <p>
@@ -33,31 +12,38 @@ Building scalable cloud infrastructure, automating deployments, and improving re
   <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,mysql,postgresql" />
 </p>
 
-### Tools & Platforms
+### Monitoring & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=git,github,prometheus,grafana,vscode" />
 </p>
 
 ---
 
-## ☁️ DevOps Projects
+## ☁️ Featured Projects
 
-### 🚀 EKS Infrastructure with Terraform & Terragrunt
-- Modular AWS Infrastructure
-- VPC, EKS, ALB, IAM, RDS
-- Multi-environment setup
-- GitHub Actions CI/CD
+### 🚀 Terraform AWS EKS Infrastructure
+- Modular AWS infrastructure using Terraform & Terragrunt
+- EKS Cluster provisioning
+- VPC, IAM, ALB & RDS setup
+- Production-ready infrastructure practices
 
-### 🔄 CI/CD Automation
-- GitHub Actions pipelines
+### 🔄 GitHub Actions CI/CD
 - Docker image automation
-- Helm deployments to Kubernetes
-- ArgoCD continuous delivery
+- Kubernetes deployments
+- GitHub Actions workflows
+- Helm-based deployments
 
-### 📊 Observability Stack
-- Prometheus & Grafana monitoring
-- CloudWatch logging
-- Datadog integrations
+### ⚙️ Kubernetes GitOps Platform
+- ArgoCD GitOps workflows
+- Helm charts
+- Environment-based deployments
+- Observability integrations
+
+### 🤖 AI Infrastructure Lab
+- Ollama deployments
+- Flowise & n8n hosting
+- RAG AI agents
+- GPU workloads on Cloud Run
 
 ---
 
@@ -65,12 +51,12 @@ Building scalable cloud infrastructure, automating deployments, and improving re
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahil2923&show_icons=true&theme=tokyonight" height="170"/>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil2923&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil2923&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil2923&theme=tokyonight"/>
 </p>
 
 ---
@@ -78,17 +64,17 @@ Building scalable cloud infrastructure, automating deployments, and improving re
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
 <a href="https://github.com/sahil2923">
   <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Always learning DevOps, Cloud & Platform Engineering
+⭐ DevOps | Cloud | Kubernetes | Automation
 </p>
